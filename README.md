@@ -1,5 +1,7 @@
 # Basic python examples
 
+![HCJ](./Img/python.jpg)
+
 ## Themes
  - [Example 01](Examples/Example_01/main.py): Screen output: Hello World.
  - [Example 02](Examples/Example_02/main.py): Variables.
