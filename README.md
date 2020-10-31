@@ -15,4 +15,4 @@
  ## Exercises
  - [Exercise 01](Exercises/Ex01.py): Program that calculates the area of ​​a triangle.
  - [Exercise 02](Exercises/Ex02.py): Convert from dollar to colón.
- - [Exercise 02](Exercises/Ex02.py): Convert from colones to dollars.
+ - [Exercise 03](Exercises/Ex02.py): Convert from colones to dollars.
