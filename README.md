@@ -10,6 +10,7 @@
  - [Example 05](Examples/Example_05/main.py): keyboard input.
  - [Example 06](Examples/Example_06/main.py): Lists.
  - [Example 07](Examples/Example_07/main.py): Sub Lists.
+ - [Example 08](Examples/Example_08/main.py): List operators or methods.
 
  ## Exercises
  - [Exercise 01](Exercises/Ex01.py): Program that calculates the area of ​​a triangle.
