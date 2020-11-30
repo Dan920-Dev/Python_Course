@@ -17,3 +17,5 @@
  - [Exercise 02](Exercises/Ex02.py): Convert from dollar to colón.
  - [Exercise 03](Exercises/Ex03.py): Convert from colones to dollars.
  - [Exercise 04](Exercises/Ex04.py): Calculate travel time.
+ - [Exercise 05](Exercises/Ex05.py): Calculate grade point average.
+ - [Exercise 06](Exercises/Ex06.py): converter (pounds, kilos, dollars and euros).
