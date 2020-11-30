@@ -18,4 +18,8 @@
  - [Exercise 03](Exercises/Ex03.py): Convert from colones to dollars.
  - [Exercise 04](Exercises/Ex04.py): Calculate travel time.
  - [Exercise 05](Exercises/Ex05.py): Calculate grade point average.
- - [Exercise 06](Exercises/Ex06.py): converter (pounds, kilos, dollars and euros).
+ - [Exercise 06](Exercises/Ex06.py): Converter (pounds, kilos, dollars and euros).
+ - [Exercise 07](Exercises/Ex07.py): Password system.
+ - [Exercise 08](Exercises/Ex08.py): Calculate arrival time.
+ - [Exercise 09](Exercises/Ex09.py): Body Mass Index Calculator.
+ - [Exercise 10](Exercises/Ex10.py): Investment of money.
