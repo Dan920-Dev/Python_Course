@@ -23,3 +23,5 @@
  - [Exercise 08](Exercises/Ex08.py): Calculate arrival time.
  - [Exercise 09](Exercises/Ex09.py): Body Mass Index Calculator.
  - [Exercise 10](Exercises/Ex10.py): Investment of money.
+ - [Exercise 11](Exercises/Ex11.py): Salary calculator.
+ 
